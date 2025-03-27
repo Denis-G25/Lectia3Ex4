@@ -24,4 +24,7 @@ public class Piramida {
             System.out.println();  //
         }
     }
+
+    public String toString() {
+        return "Piramida cu dimensiunea n = " + n;
 }
